@@ -1,1 +1,2 @@
-This is Alex's first git proyect!
+Make a Google Homepage 
+Low skill trying to lvl up
